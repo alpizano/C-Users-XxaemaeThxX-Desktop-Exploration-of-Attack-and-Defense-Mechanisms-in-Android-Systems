@@ -6,7 +6,7 @@ This research consisted of exploring and implementing webview and repackaging at
 
 # Contents
 0. Setup
-1. Repacking Attack
+1. Repackaging Attack
 
 # 0. Setup
 Initial setup starts with downloading the virtual machines used in this project. We will be using VirtualBox here, which can be downloaded from here:
