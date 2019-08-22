@@ -17,12 +17,15 @@ https://www.virtualbox.org/wiki/Downloads
 The first android exploit we will be exploring is the Repackaging attack. The Repackaging attack is a very common type of attack on Android devices. In such an attack, attackers modify a popular app downloaded from app markets, reverse engineer the app, add some malicious payloads, and then upload the modified app to app markets. Users can be easily fooled, because it is hard to notice the difference between the modified app and the original app. Once the modified apps are installed, the malicious code inside can conduct attacks, usually in the background. For example, in March 2011, it was found that DroidDream Trojan had been embedded into more than 50 apps in Android official market and had infected many users. DroidDream Trojan exploits vulnerabilities in Android to gain the root access on the device.
 
 We will need to download two virtual machine images for this, which can be found here:
+
 http://www.cis.syr.edu/~wedu/seed/mobile_security.html
 
 For instructions on setting up the SEEDAndroid5.1 VM image, read here:
+
 http://www.cis.syr.edu/~wedu/seed/Documentation/Android5_1_VM/SEEDAndroid_VirtualBox.pdf
 
 For instructions on setting up the MobiSEEDUbuntu14.04_x64 VM image, read here:
+
 http://www.cis.syr.edu/~wedu/seed/Documentation/VirtualBox/UseVirtualBox.pdf
 
 
